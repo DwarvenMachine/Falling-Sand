@@ -14,8 +14,6 @@ public class Main {
         frame.setSize(1000,1000);
         frame.add(wind,BorderLayout.CENTER);
         frame.setVisible(true);
-      
-
    
     }
 }
